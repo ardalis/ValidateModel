@@ -1,3 +1,7 @@
+[![nuget](https://img.shields.io/nuget/dt/Ardalis.ValidateModel.svg)](https://www.nuget.org/packages/Ardalis.ValidateModel)
+
+Nuget: [Ardalis.ValidateModel](https://www.nuget.org/packages/Ardalis.ValidateModel)
+
 # ValidateModel Attribute
 A very small library/package that includes a model validation attribute for ASP.NET Core projects.
 
