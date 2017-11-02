@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>Ardalis.ValidateModel</Title>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Steve Smith (@ardalis)</Authors>
+    <Company>Ardalis.com</Company>
+    <PackageProjectUrl>https://github.com/ardalis/validatemodel</PackageProjectUrl>
+    <Description>A simple package that adds the ValidateModelAttribute for ASP.NET Core MVC usage.</Description>
+    <Summary>A simple package that adds the ValidateModelAttribute for ASP.NET Core MVC usage.</Summary>
+    <RepositoryUrl>https://github.com/ardalis/validatemodel</RepositoryUrl>
+    <PackageTags>validate</PackageTags>
+    <PackageReleaseNotes>Initial version</PackageReleaseNotes>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
